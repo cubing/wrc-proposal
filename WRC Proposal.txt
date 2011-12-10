@@ -1,0 +1,80 @@
+﻿# Proposal for the Creation of the WCA Regulations Committee
+[Draft 0.3]
+Started by Lucas Garron, December 07, 2011
+
+## Summary
+
+- The WCA Regulations Committee (WRC) will have about two to three members. They are assisted by any number of official advisors.
+- The WRC is responsible for maintaining three documents:
+  - The WCA Regulations - concise, normative rules
+  - The WCA Guidelines - detailed suggestions and clarifications for interpreting the Regulations
+  - The WCA Incidents Log - a list of all regulation-related incidents that occur.
+- The WRC should take input from the cubing community in submitting proposals to the WCA. The WCA may approve updates to the Regulations and/or Guidelines at any time, although the Regulations should have one major update every year.
+
+## Full Wording
+
+1. Structure
+  a. The WCA Regulations Committee (WRC) shall consist of about two to three members. They are assisted by any number of official advisors.
+  b. WRC Members
+      i. Role: The WRC members are responsible for maintaining the operation of the WRC, advising and reporting to the WCA board, publishing events in the Incidents Log, and submitting regulation proposals.
+      ii. Recommended Qualities: WRC Members should be long-standing members of the community with extensive competition experience (participation and organization), full understanding of current and past regulations, and be active participants in the online cubing     community who can commit to taking initiative in maintaining high-quality regulations (and ensuring that the WCA follows them).
+      iii. The WCA board has the exclusive ability to appoint and remove WRC members. Any changes in membership must be publicly announced.
+      iv. The WRC may reserve the right to discuss any matters in private, but should be open about its proceedings whenever possible. In particular, yearly revisions to the regulations must be an open process.
+  c. WRC Advisors
+      i. Role: WRC advisors have the responsibility to help the WRC draft parts of of regulation proposal in conjunction with community feedback.
+      ii. WRC advisors are not members of the WRC and have no nominal power. However, the WRC may delegate any of its responsibilities to a WRC advisor for a particular case (e.g. drafting part of a proposal, privately reviewing and announcing an incident, etc.).
+      iii. Recommended Qualities: WRC advisors should have enough of the recommended qualities for WRC members to be able to contribute to the relevant parts of the process.
+      iv. The WRC has the responsibility to manage its advisors, under supervision of the WCA board. WRC advisors may be brought on for any length of time, and any new members must be documented publicly.
+2. WCA Regulations, WCA Guidelines, and WCA Incidents Log
+  a. The WRC is responsible for maintaining three documents: the WCA Regulations, the WCA Guidelines, and the WCA Incidents Log.
+    i. The WRC is responsible for making these documents easily accessible to the public, and keeping them up to date.
+  b. Official WCA Regulations
+    i. The WCA Regulations must contain all normative rules about the WCA and its competitions. (e.g. what *must* be done and what *must not* be done)
+    ii. Any revisions to the Regulations must be submitted to the WCA board as a proposal from the WRC.
+  c. Official WCA Guidelines
+    i. The Guidelines should contain non-normative information about the regulations that board members, delegates, organizers, judges, competitors, and community members may need in order to make informed decision about the regulations.
+    ii. Any revisions to the Guidelines must be submitted to the WCA board as a proposal from the WRC.
+    iii. The structure of the guidelines should mirror the structure of the regulations, with cross-references.
+    iv. While the Regulations should attempt to set rules to be followed “in spirit”, the Guidelines should clarify details about interpretation of the regulations “to the letter”. This is intended to make the Regulations concise while maintaining a complete sets of   rules that can be implemented consistently around the world.
+    v. While the guidelines are still considered official rules, they should be considered less constant. The WRC should not hesitate to propose frequent changes to the Guidelines.
+    vi. [DRAFT ONLY] Examples of things to place in the Guidelines:
+      1. Article 6 (Prizes).
+      2. Any regulations that use the word “should”.
+      3. Most of this proposal (with the exception of some parts that should be incorporated into the Regulations).
+  d. Official WCA Incidents Log
+    i. An incident is a notable occurrence related the regulations. This may include exceptions granted to any competition/competitor, rules that were accidentally broken at a competition, or notable rulings/unusual situations that may inform future incidents.
+      1. The WCA board and the WRC should be aware of all WCA incidents. The Independent Advisory Committee (IAC) may be involved if the incident necessitates it.
+      2. The WCA board, delegates, and competition organizers are responsible for ensuring that all incidents are brought to the attention of the WCA.
+      3. Community members are also encouraged to bring up any important incidents to the WCA (e.g. via official forum or email).
+    ii. All significant WCA incidents *must* be recorded in the incident log by the WRC chairs.
+    iii. The WRC alone has full power and responsibility to add an entry to the incident log.
+      1. The WCA board or the IAC may advise the WRC to withhold certain information to the incident to the log. However, the WRC has the ultimate responsibility to bring any important incidents to the attention of affected cubers and the general community.
+      2. The WRC has the discretion to limit the extent of the information published in the log (e.g. names and any sensitive details that are not necessary to help others learn from the incident).
+    iv. Any important incidents in the log may be accompanied by an official announcement about the incident by a WCA board or WRC member, along with descriptions of the incident with its circumstances and resolutions.
+    v. Wherever an incident or is a significant precedent / example for similar rulings, the Guidelines should also be revised with a proposal covering new clarifications and a reference to relevant incident.
+3. Responsibilities
+  a. Proposals
+    i. A proposal is a documented set of changes to the Regulations or Guidelines (or both), simultaneously presented to the public *and* submitted to the WCA board.
+  1. Proposals may be submitted at any time.
+  2. If there are independent changes to be proposed, multiple proposals may be submitted at once.
+  3. Each individual change in a proposal should be supported by links and citations of community discussion that support the change. Any controversial changes should be clearly justified.
+  4. Any change to any content of the Regulations or Guidelines requires a proposal to be submitted by the WRC and approved by the WCA board.
+    ii. The WRC’s main responsibility is to submit a yearly proposal for updates to the official WCA Regulations and Guidelines. This should be completed by the end of a calendar year and come into effect January 1.
+      1. The yearly proposal may be accompanied by additional, independent proposals (e.g. a proposal for a new event that the WCA board may or not approve, independently of the main proposal).
+    iii. The WCA board has the exclusive right to approve or reject a proposal.
+      1. The WCA board must either approve a proposal in its entirety, or reject it in its entirety. This is intended to prevent “line-item” approval.
+      2. The WCA board should make its decision in a reasonable amount of time. Any upcoming competitions that may be affected by the proposal should be taken into account when taking time to make a decision.
+      3. If the WCA board has concerns about any part of a proposal, they may reject the proposal and request additional changes to be incorporated into a modified proposal.
+      4. Updates may be made to the Regulations at any time, although it is recommended that this is only done during the yearly proposal. If there any important *clarifications* during the year, they should be added to the Guidelines. It is recommended that any other *corrections, deletions, or additions* to the Regulations be limited to textual revisions.
+      5. Updates to the Guidelines may be made with any frequency. It is recommended that any important regulation-related incidents are used to incorporate a clarification to the guidelines, along with a reference to the incident.
+4. Communication
+  a. The WCA shall set up a forum where members of the WRC advisors can discuss details about implementing regulation changes. It is recommended that only WRC advisors can post in the forum, but that records of the discussions be available to the public for   accountability.
+  b. The WCA board may communicate with the WRC chairs via email. The WRC and the WCA must inform each other of *any* incidents or exceptions to the regulations. For example, if the WCA would like to grant an exception to the Regulations for a competition, the WRC   *must* be informed.
+  c. The WRC and its advisors are responsible for staying in communication with the general cubing community. Regulations should be drafted according to community consensus.
+    i. The WCA Regulations subforum at http://www.worldcubeassociation.org/forum/viewforum.php?f=4&sid=20e24ad3327d66cbaf2888c24e6cf7c4 should be considered the official place where any regulation issues are discussed. All posts in the official WCA Regulations subforum *must* be given consideration by the WRC.
+    ii. Other forums like http://www.speedsolving.com/forum/ or the other WCA subforums (like “WCA Competitions”) may be used for community discussion. However, community members should note that *only posts in the official WCA Regulations subforum are guaranteed to be  given full consideration*, although other online conversations may be cited in the official forum  to provide evidence for community consensus.
+  d. The WCA shall have an email address, regulations@worldcubeassociation.org, that forwards to all the WRC members. In addition to posting in forums, any community member should be welcome to use this email to bring something to the attention of the WRC.
+
+## Revisions:
+0.2: There are only 2-3 WRC members now; everyone else is an advisor. This clarifies roles and responsibilities for the WRC, and it is consistent with the number of WCA board “members”.
+0.3: Small changes and conversion to text format.
