@@ -1,5 +1,5 @@
 ﻿# Proposal for the Creation of the WCA Regulations Committee
-[Draft 0.3]
+[Draft 0.4]
 Started by Lucas Garron, December 07, 2011
 
 ## Summary
@@ -93,3 +93,4 @@ Started by Lucas Garron, December 07, 2011
 ## Revisions:
 0.2: There are only 2-3 WRC members now; everyone else is an advisor. This clarifies roles and responsibilities for the WRC, and it is consistent with the number of WCA board “members”.
 0.3: Small changes and conversion to text format.
+0.4: Addition of provisions for scramblers.
