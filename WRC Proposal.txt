@@ -16,15 +16,15 @@ Started by Lucas Garron, December 07, 2011
 1. Structure
   a. The WCA Regulations Committee (WRC) shall consist of about two to three members. They are assisted by any number of official advisors.
   b. WRC Members
-      i. Role: The WRC members are responsible for maintaining the operation of the WRC, advising and reporting to the WCA board, publishing events in the Incidents Log, and submitting regulation proposals.
-      ii. Recommended Qualities: WRC Members should be long-standing members of the community with extensive competition experience (participation and organization), full understanding of current and past regulations, and be active participants in the online cubing     community who can commit to taking initiative in maintaining high-quality regulations (and ensuring that the WCA follows them).
-      iii. The WCA board has the exclusive ability to appoint and remove WRC members. Any changes in membership must be publicly announced.
-      iv. The WRC may reserve the right to discuss any matters in private, but should be open about its proceedings whenever possible. In particular, yearly revisions to the regulations must be an open process.
+    i. Role: The WRC members are responsible for maintaining the operation of the WRC, advising and reporting to the WCA board, publishing events in the Incidents Log, and submitting regulation proposals.
+    ii. Recommended Qualities: WRC Members should be long-standing members of the community with extensive competition experience (participation and organization), full understanding of current and past regulations, and be active participants in thonline cubing     community who can commit to taking initiative in maintaining high-quality regulations (and ensuring that the WCA follows them).
+    iii. The WCA board has the exclusive ability to appoint and remove WRC members. Any changes in membership must be publicly announced.
+    iv. The WRC may reserve the right to discuss any matters in private, but should be open about its proceedings whenever possible. In particular, yearly revisions to the regulations must be an open process.
   c. WRC Advisors
-      i. Role: WRC advisors have the responsibility to help the WRC draft parts of of regulation proposal in conjunction with community feedback.
-      ii. WRC advisors are not members of the WRC and have no nominal power. However, the WRC may delegate any of its responsibilities to a WRC advisor for a particular case (e.g. drafting part of a proposal, privately reviewing and announcing an incident, etc.).
-      iii. Recommended Qualities: WRC advisors should have enough of the recommended qualities for WRC members to be able to contribute to the relevant parts of the process.
-      iv. The WRC has the responsibility to manage its advisors, under supervision of the WCA board. WRC advisors may be brought on for any length of time, and any new members must be documented publicly.
+    i. Role: WRC advisors have the responsibility to help the WRC draft parts of of regulation proposal in conjunction with community feedback.
+    ii. WRC advisors are not members of the WRC and have no nominal power. However, the WRC may delegate any of its responsibilities to a WRC advisor for a particular case (e.g. drafting part of a proposal, privately reviewing and announcing an incident, etc.).
+    iii. Recommended Qualities: WRC advisors should have enough of the recommended qualities for WRC members to be able to contribute to the relevant parts of the process.
+    iv. The WRC has the responsibility to manage its advisors, under supervision of the WCA board. WRC advisors may be brought on for any length of time, and any new members must be documented publicly.
 2. WCA Regulations, WCA Guidelines, and WCA Incidents Log
   a. The WRC is responsible for maintaining three documents: the WCA Regulations, the WCA Guidelines, and the WCA Incidents Log.
     i. The WRC is responsible for making these documents easily accessible to the public, and keeping them up to date.
