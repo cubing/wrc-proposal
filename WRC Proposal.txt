@@ -10,13 +10,13 @@ Started by Lucas Garron, December 07, 2011
   - The WCA Guidelines - detailed suggestions and clarifications for interpreting the Regulations.
   - The WCA Scramblers - a set of scrambling programs for official puzzles.
   - The WCA Incidents Log - a historical list of all regulation-related incidents.
-- The WRC should take input from the cubing community in submitting proposals to the WCA. The WCA Board may approve updates to the Regulations and/or Guidelines at any time, although the Regulations should have one major update every year.
+- The WRC should take input from the cubing community in submitting amendments to the WCA. The WCA Board may approve updates to the Regulations and/or Guidelines at any time, although the Regulations should have one major update every year.
 
 ## Full Wording
 
 1. The WCA Regulations Committee
   a. The WCA Regulations Committee (WRC) should consist of three members.
-  b. Role: The WRC is responsible for advising and reporting to the WCA Board, submitting proposals, publishing events in the Incidents Log.
+  b. Role: The WRC is responsible for advising and reporting to the WCA Board, submitting amendments, publishing events in the Incidents Log.
   c. Membership: The WCA Board has the exclusive ability to appoint and remove WRC members. Any changes in membership must be publicly announced.
     i. Candidates should be announced publicly before being appointed to the WRC, with enough time to allow for public feedback.
   d. Required Qualities:
@@ -30,7 +30,7 @@ Started by Lucas Garron, December 07, 2011
 2. WCA Regulations, WCA Guidelines, WCA Scramblers, and WCA Incidents Log
   a. The WRC is responsible for maintaining the following: the WCA Regulations, the WCA Guidelines, the WCA Scramblers, and the WCA Incidents Log.
     i. The WRC is responsible for making these easily accessible to the public, and keeping them up to date.
-    ii. Any revisions to the Regulations, the Guidelines, or the Scramblers must be submitted to the WCA Board as a proposal from the WRC. The Incidents Log may be updated by the WRC independently.
+    ii. Any revisions to the Regulations, the Guidelines, or the Scramblers must be submitted to the WCA Board as an amendment from the WRC. The Incidents Log may be updated by the WRC independently.
   b. Official WCA Regulations
     i. The WCA Regulations must contain all normative rules about the WCA and its competitions (e.g. what *must* be done and what *must not* be done).
     ii. The regulations should be clear and concise. Any clarifications or recommendations (what *should* be done and what *should not* be done) should be incorporated into the Guidelines.
@@ -64,22 +64,22 @@ Started by Lucas Garron, December 07, 2011
     iv. Any important incidents in the log may be accompanied by an official announcement about the incident by the WCA Board or the WRC, along with descriptions of the incident, its circumstances, and its resolution.
     v. Wherever an incident or is a significant precedent / example for similar rulings, the Guidelines should also be revised with a clarifications and a reference to relevant incident.
 3. Responsibilities
-  a. Proposals
-    i. A proposal is a documented set of changes to the Regulations, Guidelines, and/or Scramblers. Proposals must be simultaneously presented to the public *and* submitted to the WCA Board.
-      1. Proposals may be submitted at any time.
-      2. If there are independent changes to be proposed, multiple proposals may be submitted at once.
-      3. Each individual change in a proposal should be supported by an explanation with any links and citations of community discussion that demonstrate community consikeaensus for the change. Any controversial changes should be clearly justified.
-      4. Any change to any content of the Regulations, Guidelines, or Scramblers requires a proposal to be submitted by the WRC and approved by the WCA Board.
-    ii. The WRC’s main responsibility is to submit a yearly proposal for updates to the official WCA Regulations and Guidelines. This should be completed by the end of a calendar year and come into effect January 1.
-      1. The yearly proposal may be accompanied by additional, independent proposals (e.g. a proposal for a new event that the WCA Board may or not approve, independently of the main proposal).
-      2. The WCA Board has the exclusive right to approve or reject a proposal. The WCA Board must either approve a proposal in its entirety, or reject it in its entirety. This is intended to prevent “line-item” approval. If the WCA Board has concerns about any part of a proposal, it may reject the proposal and request additional changes to be incorporated into a modified proposal.
-      3. The WCA Board should make its decision in a reasonable amount of time. Any upcoming competitions that may be affected by the proposal should be taken into account when taking time to make a decision
-      4. Updates may be made to the Regulations at any time, although it is recommended that this only be done during the yearly proposal. If there any important *clarifications* during the year, they should be added to the Guidelines. Any other *corrections, deletions, or additions* to the Regulations should be limited to important textual revisions.
+  a. Amendments
+    i. An amendment is a documented set of changes to the Regulations, Guidelines, and/or Scramblers. Amendments must be simultaneously presented to the public *and* submitted to the WCA Board.
+      1. Amendments may be submitted at any time.
+      2. If there are independent changes to be proposed, multiple amendments may be submitted at once.
+      3. Each individual change in an amendment should be supported by an explanation with any links and citations of community discussion that demonstrate community consikeaensus for the change. Any controversial changes should be clearly justified.
+      4. Any change to any content of the Regulations, Guidelines, or Scramblers requires an amendment to be submitted by the WRC and approved by the WCA Board.
+    ii. The WRC’s main responsibility is to submit a yearly amendment for updates to the official WCA Regulations and Guidelines. This should be completed by the end of a calendar year and come into effect January 1.
+      1. The yearly amendment may be accompanied by additional, independent amendments (e.g. an amendment for a new event that the WCA Board may or not approve, independently of the main amendment).
+      2. The WCA Board has the exclusive right to approve or reject an amendment. The WCA Board must either approve an amendment in its entirety, or reject it in its entirety. This is intended to prevent “line-item” approval. If the WCA Board has concerns about any part of an amendment, it may reject the amendment and request additional changes to be incorporated into a modified amendment.
+      3. The WCA Board should make its decision in a reasonable amount of time. Any upcoming competitions that may be affected by the amendment should be taken into account when taking time to make a decision
+      4. Updates may be made to the Regulations at any time, although it is recommended that this only be done during the yearly amendment. If there any important *clarifications* during the year, they should be added to the Guidelines. Any other *corrections, deletions, or additions* to the Regulations should be limited to important textual revisions.
       5. Updates to the Guidelines may be made with any frequency. Any important regulation-related incidents should incorporate a clarification to the guidelines, along with a reference to the incident.
 4. Communication
   a. Transparency: The WRC should carry out its major responsibilities in an open process that involves feedback from the international community.
   b. The WRC and the WCA must inform each other of *any* incidents or exceptions to the regulations. For example, if the WCA would like to grant an exception to the Regulations for a competition, the WRC *must* be informed.
-  c. The WRC is responsible for staying in communication with the general cubing community. Proposals should be drafted according to community consensus, and the WRC should make an effort to communicate with WCA delegates to take into account the concerns and ideas of cubers from all regions.
+  c. The WRC is responsible for staying in communication with the general cubing community. Amendments should be drafted according to community consensus, and the WRC should make an effort to communicate with WCA delegates to take into account the concerns and ideas of cubers from all regions.
   d. The WCA shall maintain an online WCA Regulations Forum (currently at http://www.worldcubeassociation.org/forum/viewforum.php?f=4 as of December 2011) as the official place where any regulation issues are discussed. All posts in the official WCA Regulations subforum *must* be given consideration by the WRC.
   e. The WCA shall have an email address, regulations@worldcubeassociation.org, that forwards to all the WRC members. In addition to posting in the official forum, any community member should be welcome to use this email to bring something to the attention of the WRC.
 
