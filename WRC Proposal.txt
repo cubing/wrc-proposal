@@ -4,7 +4,7 @@ Started by Lucas Garron, December 07, 2011
 
 ## Summary
 
-- The WCA Regulations Committee (WRC) shall have about two to three members.
+- The WCA Regulations Committee (WRC) should have three members.
 - The WRC is responsible for maintaining the following:
   - The WCA Regulations - concise, normative rules,
   - The WCA Guidelines - detailed suggestions and clarifications for interpreting the Regulations.
@@ -15,7 +15,7 @@ Started by Lucas Garron, December 07, 2011
 ## Full Wording
 
 1. The WCA Regulations Committee
-  a. The WCA Regulations Committee (WRC) shall consist of about two to three members.
+  a. The WCA Regulations Committee (WRC) should consist of three members.
   b. Role: The WRC is responsible for advising and reporting to the WCA Board, submitting proposals, publishing events in the Incidents Log.
   c. Membership: The WCA Board has the exclusive ability to appoint and remove WRC members. Any changes in membership must be publicly announced.
     i. Candidates should be announced publicly before being appointed to the WRC, with enough time to allow for public feedback.
@@ -42,12 +42,12 @@ Started by Lucas Garron, December 07, 2011
   d. Official WCA Scramblers
     i. The WRC shall be responsible for maintaining a set of official scramble programs ("scramblers").
     ii. The WRC must ensure that official scramblers are available for all official puzzles.
-    iii. The WRC may provide any number of official scramblers, although these should be limited to a very small nummber of scramblers that do not have redundant use cases.
+    iii. The WRC may provide any number of official scramblers, although these should be limited to a very small number of scramblers that do not have redundant use cases.
     iv. Requirements for Official Scramblers:
       1. Official scramblers must generate random-state scrambles for all puzzles for which this is practical. Where this is impractical, the scramblers must provide a sufficient degree of randomness that is fair to all competitors at all competitions.
       2. Official scramblers must use a sufficiently robust source of randomness.
       3. Official scramblers must make a reasonable effort to prevent anyone else from obtaining the generated scrambles.
-      4. Official scramblers should make it easy to for anyone to generate official scrambles on their computer with reasonable time and effort.
+      4. Official scramblers should make it easy for anyone to generate official scrambles on their computer with reasonable time and effort.
       5. Official scramblers should be single programs with a unified, consistent way to generate scrambles for all puzzles (instead of separate programs for different puzzles).
       6. Official scramblers should produce scrambles that are easy to archive and publish in a digital format (e.g. plain text version copies of the scrambles, or PDF files of scramble printouts).
       7. Official scramblers should be able to run offline.
@@ -68,19 +68,19 @@ Started by Lucas Garron, December 07, 2011
     i. A proposal is a documented set of changes to the Regulations, Guidelines, and/or Scramblers. Proposals must be simultaneously presented to the public *and* submitted to the WCA Board.
       1. Proposals may be submitted at any time.
       2. If there are independent changes to be proposed, multiple proposals may be submitted at once.
-      3. Each individual change in a proposal should be supported by an explanation with any links and citations of community discussion that demonstrate community concensus for the change. Any controversial changes should be clearly justified.
+      3. Each individual change in a proposal should be supported by an explanation with any links and citations of community discussion that demonstrate community consikeaensus for the change. Any controversial changes should be clearly justified.
       4. Any change to any content of the Regulations, Guidelines, or Scramblers requires a proposal to be submitted by the WRC and approved by the WCA Board.
     ii. The WRC’s main responsibility is to submit a yearly proposal for updates to the official WCA Regulations and Guidelines. This should be completed by the end of a calendar year and come into effect January 1.
       1. The yearly proposal may be accompanied by additional, independent proposals (e.g. a proposal for a new event that the WCA Board may or not approve, independently of the main proposal).
       2. The WCA Board has the exclusive right to approve or reject a proposal. The WCA Board must either approve a proposal in its entirety, or reject it in its entirety. This is intended to prevent “line-item” approval. If the WCA Board has concerns about any part of a proposal, it may reject the proposal and request additional changes to be incorporated into a modified proposal.
       3. The WCA Board should make its decision in a reasonable amount of time. Any upcoming competitions that may be affected by the proposal should be taken into account when taking time to make a decision
-      4. Updates may be made to the Regulations at any time, although it is recommended that this is only done during the yearly proposal. If there any important *clarifications* during the year, they should be added to the Guidelines. Any other *corrections, deletions, or additions* to the Regulations should be limited to important textual revisions.
+      4. Updates may be made to the Regulations at any time, although it is recommended that this only be done during the yearly proposal. If there any important *clarifications* during the year, they should be added to the Guidelines. Any other *corrections, deletions, or additions* to the Regulations should be limited to important textual revisions.
       5. Updates to the Guidelines may be made with any frequency. Any important regulation-related incidents should incorporate a clarification to the guidelines, along with a reference to the incident.
 4. Communication
   a. Transparency: The WRC should carry out its major responsibilities in an open process that involves feedback from the international community.
   b. The WRC and the WCA must inform each other of *any* incidents or exceptions to the regulations. For example, if the WCA would like to grant an exception to the Regulations for a competition, the WRC *must* be informed.
   c. The WRC is responsible for staying in communication with the general cubing community. Proposals should be drafted according to community consensus, and the WRC should make an effort to communicate with WCA delegates to take into account the concerns and ideas of cubers from all regions.
-  d. The WCA shall maintain an online WCA Regulations Forum (currently at http://www.worldcubeassociation.org/forum/viewforum.php?f=4 as of Decemeber 2011) as the official place where any regulation issues are discussed. All posts in the official WCA Regulations subforum *must* be given consideration by the WRC.
+  d. The WCA shall maintain an online WCA Regulations Forum (currently at http://www.worldcubeassociation.org/forum/viewforum.php?f=4 as of December 2011) as the official place where any regulation issues are discussed. All posts in the official WCA Regulations subforum *must* be given consideration by the WRC.
   e. The WCA shall have an email address, regulations@worldcubeassociation.org, that forwards to all the WRC members. In addition to posting in the official forum, any community member should be welcome to use this email to bring something to the attention of the WRC.
 
 ## Revisions:
