@@ -4,7 +4,7 @@ Started by Lucas Garron, December 07, 2011
 
 ## Summary
 
-- The WCA Regulations Committee (WRC) will have about two to three members.
+- The WCA Regulations Committee (WRC) shall have about two to three members.
 - The WRC is responsible for maintaining the following:
   - The WCA Regulations - concise, normative rules,
   - The WCA Guidelines - detailed suggestions and clarifications for interpreting the Regulations.
@@ -16,20 +16,28 @@ Started by Lucas Garron, December 07, 2011
 
 1. The WCA Regulations Committee
   a. The WCA Regulations Committee (WRC) shall consist of about two to three members.
-    i. Role: The WRC is responsible for maintaining the operation of the WRC, advising and reporting to the WCA Board, publishing events in the Incidents Log, and submitting regulation proposals.
-    ii. Membership: The WCA Board has the exclusive ability to appoint and remove WRC members. Any changes in membership must be publicly announced.
-    iii. Recommended Qualities: WRC Members should be long-standing members of the community with extensive competition experience (participation and organization), should full understanding of current and past regulations, and be active participants in thonline cubing community who can commit to taking initiative in maintaining high-quality regulations (and ensuring that the WCA follows them).
+  b. Role: The WRC is responsible for advising and reporting to the WCA Board, submitting proposals, publishing events in the Incidents Log.
+  c. Membership: The WCA Board has the exclusive ability to appoint and remove WRC members. Any changes in membership must be publicly announced.
+    i. Candidates should be announced publicly before being appointed to the WRC, with enough time to allow for public feedback.
+  d. Required Qualities:
+    i. WRC members must commit to taking initiative in maintaining high-quality regulations (and ensuring that the WCA follows them).
+    ii. WRC members must have full understanding of current and past regulations.
+    iii. WRC members must be active participants in the cubing community, online and in real life.
+    iv. WRC members should be long-standing members of the community.
+    v. WRC members should have extensive competition experience (participation and organization).
+    vi. WRC members should have a sufficiently strong command of English to maintain the Regulations and communicate clearly with community members.
+    vii. WRC members should represent different backgrounds, and should be from different parts of the world.
 2. WCA Regulations, WCA Guidelines, WCA Scramblers, and WCA Incidents Log
   a. The WRC is responsible for maintaining the following: the WCA Regulations, the WCA Guidelines, the WCA Scramblers, and the WCA Incidents Log.
     i. The WRC is responsible for making these easily accessible to the public, and keeping them up to date.
     ii. Any revisions to the Regulations, the Guidelines, or the Scramblers must be submitted to the WCA Board as a proposal from the WRC. The Incidents Log may be updated by the WRC independently.
   b. Official WCA Regulations
     i. The WCA Regulations must contain all normative rules about the WCA and its competitions (e.g. what *must* be done and what *must not* be done).
-    ii. The regulations should be clear and concise. Any clarifications or recommendations (what *should*be done and what *should not* be done) should be incorporated into the Guidelines.
+    ii. The regulations should be clear and concise. Any clarifications or recommendations (what *should* be done and what *should not* be done) should be incorporated into the Guidelines.
   c. Official WCA Guidelines
     i. The Guidelines should contain non-normative information about the regulations that the WCA Board, delegates, organizers, judges, competitors, and community members may need in order to make informed, consistent decision about the regulations.
-    ii. The guidlines should only contain supplementary material like interpretations, clarifications, recommendations, or explanations. The Guidelines must not contain any material that contradicts the Regulations (such as corrections or deletions).
-    ii. The structure of the guidelines should mirror the structure of the regulations, with cross-references.
+    ii. The Guidelines should only contain supplementary material like interpretations, clarifications, recommendations, or explanations. The Guidelines must not contain any material that contradicts the Regulations (such as corrections or deletions).
+    iii. The structure of the Guidelines should mirror the structure of the Regulations, with cross-references.
     iv. The WRC should not hesitate to propose frequent changes to the Guidelines.
   d. Official WCA Scramblers
     i. The WRC shall be responsible for maintaining a set of official scramble programs ("scramblers").
@@ -41,8 +49,8 @@ Started by Lucas Garron, December 07, 2011
       3. Official scramblers must make a reasonable effort to prevent anyone else from obtaining the generated scrambles.
       4. Official scramblers should make it easy to for anyone to generate official scrambles on their computer with reasonable time and effort.
       5. Official scramblers should be single programs with a unified, consistent way to generate scrambles for all puzzles (instead of separate programs for different puzzles).
-      5. Official scramblers should produce scrambles that are easy to archive and publish in a digital format (e.g. plain text version copies of the scrambles, or PDF files of scramble printouts).
-      6. Official scramblers should be able to run offline.
+      6. Official scramblers should produce scrambles that are easy to archive and publish in a digital format (e.g. plain text version copies of the scrambles, or PDF files of scramble printouts).
+      7. Official scramblers should be able to run offline.
     v. Official versions of the scramblers must be available for use/download directly from the WRC. Official competitions must be required to use current official versions of the scramblers, even if other variants are available.
   e. Official WCA Incidents Log
     i. An incident is a notable occurrence related the regulations. This may include exceptions granted to any competition/competitor, rules that were accidentally broken at a competition, or notable rulings/unusual situations that may be useful for handling future incidents.
