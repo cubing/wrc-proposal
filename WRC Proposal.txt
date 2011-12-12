@@ -6,84 +6,77 @@ Started by Lucas Garron, December 07, 2011
 
 - The WCA Regulations Committee (WRC) will have about two to three members.
 - The WRC is responsible for maintaining the following:
-  - The WCA Regulations - concise, normative rules
-  - The WCA Guidelines - detailed suggestions and clarifications for interpreting the Regulations
-  - The WCA Incidents Log - a list of all regulation-related incidents that occur.
-  - The WCA Scramblers - a set of scrambling programs for official puzzles
-- The WRC should take input from the cubing community in submitting proposals to the WCA. The WCA may approve updates to the Regulations and/or Guidelines at any time, although the Regulations should have one major update every year.
+  - The WCA Regulations - concise, normative rules,
+  - The WCA Guidelines - detailed suggestions and clarifications for interpreting the Regulations.
+  - The WCA Scramblers - a set of scrambling programs for official puzzles.
+  - The WCA Incidents Log - a historical list of all regulation-related incidents.
+- The WRC should take input from the cubing community in submitting proposals to the WCA. The WCA Board may approve updates to the Regulations and/or Guidelines at any time, although the Regulations should have one major update every year.
 
 ## Full Wording
 
 1. The WCA Regulations Committee
   a. The WCA Regulations Committee (WRC) shall consist of about two to three members.
-    i. Role: The WRC is responsible for maintaining the operation of the WRC, advising and reporting to the WCA board, publishing events in the Incidents Log, and submitting regulation proposals.
-    ii. Membership: The WCA board has the exclusive ability to appoint and remove WRC members. Any changes in membership must be publicly announced.
+    i. Role: The WRC is responsible for maintaining the operation of the WRC, advising and reporting to the WCA Board, publishing events in the Incidents Log, and submitting regulation proposals.
+    ii. Membership: The WCA Board has the exclusive ability to appoint and remove WRC members. Any changes in membership must be publicly announced.
     iii. Recommended Qualities: WRC Members should be long-standing members of the community with extensive competition experience (participation and organization), should full understanding of current and past regulations, and be active participants in thonline cubing community who can commit to taking initiative in maintaining high-quality regulations (and ensuring that the WCA follows them).
-2. WCA Regulations, WCA Guidelines, WCA Incidents Log, and WCA Scramblers
-  a. The WRC is responsible for maintaining the following: the WCA Regulations, the WCA Guidelines, the WCA Incidents Log, and the WCA Scramblers
+2. WCA Regulations, WCA Guidelines, WCA Scramblers, and WCA Incidents Log
+  a. The WRC is responsible for maintaining the following: the WCA Regulations, the WCA Guidelines, the WCA Scramblers, and the WCA Incidents Log.
     i. The WRC is responsible for making these easily accessible to the public, and keeping them up to date.
+    ii. Any revisions to the Regulations, the Guidelines, or the Scramblers must be submitted to the WCA Board as a proposal from the WRC. The Incidents Log may be updated by the WRC independently.
   b. Official WCA Regulations
-    i. The WCA Regulations must contain all normative rules about the WCA and its competitions. (e.g. what *must* be done and what *must not* be done)
-    ii. Any revisions to the Regulations must be submitted to the WCA board as a proposal from the WRC.
+    i. The WCA Regulations must contain all normative rules about the WCA and its competitions (e.g. what *must* be done and what *must not* be done).
+    ii. The regulations should be clear and concise. Any clarifications or recommendations (what *should*be done and what *should not* be done) should be incorporated into the Guidelines.
   c. Official WCA Guidelines
-    i. The Guidelines should contain non-normative information about the regulations that the WCA Board, delegates, organizers, judges, competitors, and community members may need in order to make informed decision about the regulations.
-    ii. Any revisions to the Guidelines must be submitted to the WCA board as a proposal from the WRC.
-    iii. The structure of the guidelines should mirror the structure of the regulations, with cross-references.
-    iv. While the Regulations should attempt to set rules to be followed “in spirit”, the Guidelines should clarify details about interpretation of the regulations “to the letter”. This is intended to make the Regulations concise while maintaining a complete set of rules that can be implemented consistently around the world.
-    v. While the guidelines are still considered official rules, they should be considered less constant. The WRC should not hesitate to propose frequent changes to the Guidelines.
-    vi. [DRAFT ONLY] Examples of things to place in the Guidelines:
-      1. Article 6 (Prizes).
-      2. Any regulations that use the word “should”.
-      3. Most of this proposal (with the exception of some parts that should be incorporated into the Regulations).
-  d. Official WCA Incidents Log
-    i. An incident is a notable occurrence related the regulations. This may include exceptions granted to any competition/competitor, rules that were accidentally broken at a competition, or notable rulings/unusual situations that may inform future incidents.
-      1. The WCA board and the WRC should be aware of all WCA incidents. The Independent Advisory Committee (IAC) may be involved if the incident necessitates it.
-      2. The WCA board, delegates, and competition organizers are responsible for ensuring that all incidents are brought to the attention of the WCA.
-      3. Community members are also encouraged to bring up any important incidents to the WCA (e.g. via official forum or email).
-    ii. All significant WCA incidents *must* be recorded in the incident log by the WRC chairs.
-    iii. The WRC alone has full power and responsibility to add an entry to the incident log.
-      1. The WCA board or the IAC may advise the WRC to withhold certain information to the incident to the log. However, the WRC has the ultimate responsibility to bring any important incidents to the attention of affected cubers and the general community.
-      2. The WRC has the discretion to limit the extent of the information published in the log (e.g. names and any sensitive details that are not necessary to help others learn from the incident).
-    iv. Any important incidents in the log may be accompanied by an official announcement about the incident by a WCA board or WRC member, along with descriptions of the incident with its circumstances and resolutions.
-    v. Wherever an incident or is a significant precedent / example for similar rulings, the Guidelines should also be revised with a proposal covering new clarifications and a reference to relevant incident.
+    i. The Guidelines should contain non-normative information about the regulations that the WCA Board, delegates, organizers, judges, competitors, and community members may need in order to make informed, consistent decision about the regulations.
+    ii. The guidlines should only contain supplementary material like interpretations, clarifications, recommendations, or explanations. The Guidelines must not contain any material that contradicts the Regulations (such as corrections or deletions).
+    ii. The structure of the guidelines should mirror the structure of the regulations, with cross-references.
+    iv. The WRC should not hesitate to propose frequent changes to the Guidelines.
   d. Official WCA Scramblers
-    i. The WRC shall be responsible for maintaining a set of current official scramble programs ("scramblers"). These scrambles will be required for generating puzzle scrambles for official events at official competitions.
-    ii. Any revisions to the official scramblers must be submitted to the WCA board as a proposal from the WRC.
-    iii. The WRC must ensure that current official scramblers are available for all official puzzles.
-      1. The WRC should attempt to provide official scramblers that are easy to use. They should be single programs with a unified, consistent way to generate scrambles for all puzzles, instead of separate scrambles for different puzzles.
-      2. The WRC may provide any number of official scramblers, although these should be limited to a very small nummber of scramblers that do not have redundant use cases. [DRAFT ONLY: This is to allow both a portable Javascript scrambler like Mark 2 and also a more powerful scrambler like tnoodle.]
-    iv. The following rules guide the creation any official scramblers:
-      1. Official scramblers must generate random-state scrambles for all puzzles for which this is feasible. For puzzles where this is impractical, the WRC should attempt to provide scramblers that can be used in practice to provide a sufficiently fair degree of randomness.
-      2. Official scramblers should make it easy to for anyone to generate official scrambles on their computer with reasonable time and effort.
-      3. Official scramblers should produce scrambles that are easy to archive and publish in a digital format (e.g. plain text version copies of the scrambles, or PDF files of scramble printouts).
-      4. Official scramblers must use a sufficientlly robust of randomness.
-      5. Official scramblers must make a reasonable effort to prevent anyone else from obtaining the generated scrambles.
+    i. The WRC shall be responsible for maintaining a set of official scramble programs ("scramblers").
+    ii. The WRC must ensure that official scramblers are available for all official puzzles.
+    iii. The WRC may provide any number of official scramblers, although these should be limited to a very small nummber of scramblers that do not have redundant use cases.
+    iv. Requirements for Official Scramblers:
+      1. Official scramblers must generate random-state scrambles for all puzzles for which this is practical. Where this is impractical, the scramblers must provide a sufficient degree of randomness that is fair to all competitors at all competitions.
+      2. Official scramblers must use a sufficiently robust source of randomness.
+      3. Official scramblers must make a reasonable effort to prevent anyone else from obtaining the generated scrambles.
+      4. Official scramblers should make it easy to for anyone to generate official scrambles on their computer with reasonable time and effort.
+      5. Official scramblers should be single programs with a unified, consistent way to generate scrambles for all puzzles (instead of separate programs for different puzzles).
+      5. Official scramblers should produce scrambles that are easy to archive and publish in a digital format (e.g. plain text version copies of the scrambles, or PDF files of scramble printouts).
       6. Official scramblers should be able to run offline.
-    vi. Official versions of the scramblers must be available for use/download directly from the WRC. Official competitions must be required to use current official versions of the scramblers, even if other variants are available.
+    v. Official versions of the scramblers must be available for use/download directly from the WRC. Official competitions must be required to use current official versions of the scramblers, even if other variants are available.
+  e. Official WCA Incidents Log
+    i. An incident is a notable occurrence related the regulations. This may include exceptions granted to any competition/competitor, rules that were accidentally broken at a competition, or notable rulings/unusual situations that may be useful for handling future incidents.
+      1. The WCA Board and the WRC must be aware of all WCA incidents. The Independent Advisory Committee (IAC) may be involved if the incident necessitates it.
+      2. The WCA Board, delegates, and competition organizers should ensure that all incidents are brought to the attention of the WCA.
+      3. Community members are also encouraged to bring up any important incidents to the WCA (e.g. via official forum or email).
+    iii. The WRC alone has full power and responsibility to add an entry to the incident log.
+      1. All significant WCA incidents *must* be recorded in the incident log by the WRC.
+      2. The WCA Board or the IAC may advise the WRC to withhold certain information to the incident to the log. However, the WRC has the ultimate responsibility to bring any important incidents to the attention of affected cubers and the general community.
+      3. The WRC has the discretion to limit the extent of the information published in the log (e.g. names and any sensitive details that are not necessary to help others learn from the incident).
+    iv. Any important incidents in the log may be accompanied by an official announcement about the incident by the WCA Board or the WRC, along with descriptions of the incident, its circumstances, and its resolution.
+    v. Wherever an incident or is a significant precedent / example for similar rulings, the Guidelines should also be revised with a clarifications and a reference to relevant incident.
 3. Responsibilities
   a. Proposals
-    i. A proposal is a documented set of changes to the Regulations, Guidelines, and/or Scramblers. Proposals must be simultaneously presented to the public *and* submitted to the WCA board.
+    i. A proposal is a documented set of changes to the Regulations, Guidelines, and/or Scramblers. Proposals must be simultaneously presented to the public *and* submitted to the WCA Board.
       1. Proposals may be submitted at any time.
       2. If there are independent changes to be proposed, multiple proposals may be submitted at once.
       3. Each individual change in a proposal should be supported by an explanation with any links and citations of community discussion that demonstrate community concensus for the change. Any controversial changes should be clearly justified.
-      4. Any change to any content of the Regulations or Guidelines requires a proposal to be submitted by the WRC and approved by the WCA board.
+      4. Any change to any content of the Regulations, Guidelines, or Scramblers requires a proposal to be submitted by the WRC and approved by the WCA Board.
     ii. The WRC’s main responsibility is to submit a yearly proposal for updates to the official WCA Regulations and Guidelines. This should be completed by the end of a calendar year and come into effect January 1.
-      1. The yearly proposal may be accompanied by additional, independent proposals (e.g. a proposal for a new event that the WCA board may or not approve, independently of the main proposal).
-    iii. The WCA board has the exclusive right to approve or reject a proposal.
-      1. The WCA board must either approve a proposal in its entirety, or reject it in its entirety. This is intended to prevent “line-item” approval.
-      2. The WCA board should make its decision in a reasonable amount of time. Any upcoming competitions that may be affected by the proposal should be taken into account when taking time to make a decision.
-      3. If the WCA board has concerns about any part of a proposal, they may reject the proposal and request additional changes to be incorporated into a modified proposal.
-      4. Updates may be made to the Regulations at any time, although it is recommended that this is only done during the yearly proposal. If there any important *clarifications* during the year, they should be added to the Guidelines. It is recommended that any other *corrections, deletions, or additions* to the Regulations be limited to textual revisions.
-      5. Updates to the Guidelines may be made with any frequency. It is recommended that any important regulation-related incidents are used to incorporate a clarification to the guidelines, along with a reference to the incident.
+      1. The yearly proposal may be accompanied by additional, independent proposals (e.g. a proposal for a new event that the WCA Board may or not approve, independently of the main proposal).
+      2. The WCA Board has the exclusive right to approve or reject a proposal. The WCA Board must either approve a proposal in its entirety, or reject it in its entirety. This is intended to prevent “line-item” approval. If the WCA Board has concerns about any part of a proposal, it may reject the proposal and request additional changes to be incorporated into a modified proposal.
+      3. The WCA Board should make its decision in a reasonable amount of time. Any upcoming competitions that may be affected by the proposal should be taken into account when taking time to make a decision
+      4. Updates may be made to the Regulations at any time, although it is recommended that this is only done during the yearly proposal. If there any important *clarifications* during the year, they should be added to the Guidelines. Any other *corrections, deletions, or additions* to the Regulations should be limited to important textual revisions.
+      5. Updates to the Guidelines may be made with any frequency. Any important regulation-related incidents should incorporate a clarification to the guidelines, along with a reference to the incident.
 4. Communication
   a. Transparency: The WRC should carry out its major responsibilities in an open process that involves feedback from the international community.
-  b. The WCA board may communicate with the WRC chairs via email. The WRC and the WCA must inform each other of *any* incidents or exceptions to the regulations. For example, if the WCA would like to grant an exception to the Regulations for a competition, the WRC *must* be informed.
+  b. The WRC and the WCA must inform each other of *any* incidents or exceptions to the regulations. For example, if the WCA would like to grant an exception to the Regulations for a competition, the WRC *must* be informed.
   c. The WRC is responsible for staying in communication with the general cubing community. Proposals should be drafted according to community consensus, and the WRC should make an effort to communicate with WCA delegates to take into account the concerns and ideas of cubers from all regions.
-  d. The WCA Regulations subforum at http://www.worldcubeassociation.org/forum/viewforum.php?f=4&sid=20e24ad3327d66cbaf2888c24e6cf7c4 shall be the official place where any regulation issues are discussed. All posts in the official WCA Regulations subforum *must* be given consideration by the WRC.
-  e. The WCA shall have an email address, regulations@worldcubeassociation.org, that forwards to all the WRC members. In addition to posting in the official, any community member should be welcome to use this email to bring something to the attention of the WRC.
+  d. The WCA shall maintain an online WCA Regulations Forum (currently at http://www.worldcubeassociation.org/forum/viewforum.php?f=4 as of Decemeber 2011) as the official place where any regulation issues are discussed. All posts in the official WCA Regulations subforum *must* be given consideration by the WRC.
+  e. The WCA shall have an email address, regulations@worldcubeassociation.org, that forwards to all the WRC members. In addition to posting in the official forum, any community member should be welcome to use this email to bring something to the attention of the WRC.
 
 ## Revisions:
-0.2: There are only 2-3 WRC members now; everyone else is an advisor. This clarifies roles and responsibilities for the WRC, and it is consistent with the number of WCA board “members”.
+0.2: There are only 2-3 WRC members now; everyone else is an advisor. This clarifies roles and responsibilities for the WRC, and it is consistent with the number of WCA Board “members”.
 0.3: Small changes and conversion to text format.
 0.4: Addition of provisions for scramblers.
 0.5: Advisors removed, because the status is not really necessary for providing feedback.
