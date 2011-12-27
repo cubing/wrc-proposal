@@ -1,7 +1,5 @@
 # Proposal for the Creation of the WCA Regulations Committee
 [Draft 0.7]
-Started by Lucas Garron, December 07, 2011
-Updated by Vincent Sheu, December 23, 2011
 
 ## Summary
 
@@ -12,7 +10,7 @@ Updated by Vincent Sheu, December 23, 2011
   - The WCA Scramblers - a set of scrambling programs for official puzzles.
   - The WCA Incidents Log - a historical list of regulation-related incidents.
 - The WRC should take input from the cubing community in submitting amendments to the WCA. The WCA Board may approve updates to the Regulations and/or Guidelines at any time, although the Regulations should have one major update every year.
-- Notable change to policy: Delegate Reports must be sent to the WRC in addition to the board. (See 1c1) and 1c2) of the 2010 Regulations.)
+- Notable new policy: Delegate Reports must be sent to the WRC in addition to the board. (See 1c1) and 1c2) of the 2010 Regulations.)
 
 ## Full Wording
 
@@ -26,7 +24,7 @@ Article 2 – Purpose
     2a1) The Purpose of the Committee shall be:
       2a1a) Advising the Board and the World Cube Association (WCA), herein referred to as “the Association;”
       2a1b) Publishing and maintaining the WCA Constitution, the WCA Competition Regulations and Guidelines, the WCA Incident Log, and the WCA Scramblers;
-      2a1c) Maintain and develop the quality, reputation, honor, and spirit of the Association in accordance with the WCA mission statement and WCA Constitution.
+      2a1c) Maintaining and developing the quality, reputation, honor, and spirit of the Association in accordance with the WCA mission statement and WCA Constitution.
 
 Article 3 – Membership
   3a) Membership
@@ -35,9 +33,9 @@ Article 3 – Membership
     3b1) To be considered for membership in the Committee, candidates should:
       3b1a) Commit to taking initiative in developing and upholding the Purpose of the Committee;
       3b1b) Have a full understanding of current and past regulations;
-      3b1c) Be active and long-standing members of the cubing community;
+      3b1c) Be an active and long-standing members of the cubing community;
       3b1d) Have extensive competition participation and organization experience;
-      3b1e) Have a sufficiently strong command of English to communicate clearly with members of the community;
+      3b1e) Have a sufficiently strong command of English to communicate clearly with members of the community.
   3c) Membership Process
     3c1) The Board has exclusive ability to appoint and remove members. Any changes in membership must be publicly announced.
     3c2) Candidates should be announced publicly before being appointed to the WRC, with enough time to allow for public feedback.
@@ -61,13 +59,13 @@ Article 4 – Duties
       4b1a) The WCA Constitution shall contain all regulations pertaining to the organization and defined powers of the Association and its agents.
     4b2) The Committee shall:
       4b2a) Keep the WCA Constitution up to date, and available to the public;
-      4b2b) Archive all previous versions of the Contitution, along with a log of any and all proposed amendments (accepted and rejected).
+      4b2b) Archive all previous versions of the Contitution, along with a log of any and all proposed amendments (accepted and rejected);
       4b2c) Submit proposed WCA Constitution amendments to the Board.
   4c) Maintaining the WCA Incidents Log
     4c1) The WCA Incidents Log
       4c1a) An incident is a notable occurrence related the regulations. This includes exceptions granted to any competition/competitor, rules that were accidentally broken at a competition, or notable rulings/unusual situations that may be useful for handling future incidents.
       4c1b) Incidents shall be investigated by the Independent Advisory Committee (IAC), by the Committee, or by the Board itself.
-      4c1c) The Board and the Committee shall be made aware of all incidents.
+      4c1c) The Board and the Committee shall be informed of all incidents.
       4c1d) Incidents may be submitted (e.g. via email or the official Forum) to the Board for investigation by anyone.
       4c1e) Any incidents in the log may be accompanied by an official announcement about the incident by the Board or the Committee, along with descriptions of the incident, its circumstances, and its resolution.
     4c2) The Committee shall:
@@ -109,7 +107,7 @@ Article 4 – Duties
     4f1) The Committee should:
       4f1a) Carry out its duties in an open process that involves feedback from the community;
       4f1b) Inform the Board of any incidents or exceptions to the Regulations and/or Guidelines within fourteen (14) days of the incident or exception in question;
-      4f1c) Be notified by the Board of any incidents or exceptions to the WCA Competition Regulations and Guidelines within fourteen (14) days of the incident or exception in question. For example, if the Board grants an exception to the Regulations, the WRC must be informed.
+      4f1c) Be notified by the Board of any incidents or exceptions to the WCA Competition Regulations and Guidelines within fourteen (14) days of the incident or exception in question (for example, if the Board grants an exception to the Regulations, the WRC must be informed);
       4f1d) Make an effort to communicate with WCA Delegates of all regions to stay in communication with the community;
       4f1e) Draft amendments according to community consensus;
       4f1f) Maintain an online WCA Regulations Forum (currently at http://www.worldcubeassociation.org/forum/viewforum.php?f=4 as of December 2011) as the official place where any regulation issues are discussed. All posts in the official WCA Regulations subforum must be given consideration by the WRC;
