@@ -1,5 +1,5 @@
 # Proposal for the Creation of the WCA Regulations Committee
-[Final Draft for Submission to the WCA Board]
+[Final Version for Submission to the WCA Board]
 
 ## Summary
 
@@ -35,7 +35,7 @@ Article 3 – Membership
       3b1b) Have a full understanding of current and past regulations;
       3b1c) Be an active and long-standing members of the cubing community;
       3b1d) Have extensive competition participation and organization experience;
-      3b1e) Have a sufficiently strong command of English to maintain the Regulations and communicate clearly with members the Committee, the Board, and the general WCA community.
+      3b1e) Have a sufficiently strong command of English to maintain the Regulations and communicate clearly with members of the Committee, the Board, and the general WCA community.
   3c) Membership Process
     3c1) The Board has exclusive ability to appoint and remove members. Any changes in membership must be publicly announced.
     3c2) Candidates should be announced publicly before being appointed to the WRC, with enough time to allow for public feedback.
